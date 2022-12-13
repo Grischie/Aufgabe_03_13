@@ -2,7 +2,7 @@
 
 int main() {
   int x,y;
-  printf("\n\nggT");
+  printf("\nggT");
   printf("\nErste Zahl: ");
   scanf("%i",&x);
   printf("\nZweite Zahl: ");
@@ -16,6 +16,6 @@ int main() {
     }
   }
   
-  printf("\n Der ggT lautet: %i\n\n",x);
+  printf("\nDer ggT lautet: %i\n\n",x);
   return 0;
 }
