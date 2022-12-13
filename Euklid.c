@@ -2,8 +2,8 @@
 
 int main() {
   int x,y;
-  printf("\nggT");
-  printf("\nErste Zahl: ");
+  printf("\n\nggT");
+  printf("\n\nErste Zahl: ");
   scanf("%i",&x);
   printf("\nZweite Zahl: ");
   scanf("%i",&y);
